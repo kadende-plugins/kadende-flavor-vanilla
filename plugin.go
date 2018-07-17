@@ -9,4 +9,4 @@ func (g greeting) Greet() {
 }
 
 // exported as symbol named "Greeter"
-var Greeter greeting
+var Plugin greeting
